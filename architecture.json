@@ -1,0 +1,160 @@
+{
+  "book_id": "gilded-age-american-confessional-exile-diaspora",
+  "title": "The Unhooked Chandelier",
+  "tagline": "A fallen Gilded Age heiress navigates the treacherous old-world market of exiled reputations.",
+  "target_words": 70000,
+  "actual_words": 72396,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Architecture of a Lost Life",
+    "Social Capital as Currency in Exile",
+    "The Performance of Class Across Borders",
+    "The Female Confessional as a Weapon and Shield"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Colour of a Tarnished Spoon",
+      "words": 3015
+    },
+    {
+      "ch": 2,
+      "title": "A Thread in the Dark",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "The Hôtel de l'Europe",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "The Ledger of Disgrace",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "Haarlem's Whisper",
+      "words": 3200
+    },
+    {
+      "ch": 6,
+      "title": "The Census of the Dispossessed",
+      "words": 2850
+    },
+    {
+      "ch": 7,
+      "title": "A Name's Shadow",
+      "words": 3100
+    },
+    {
+      "ch": 8,
+      "title": "The De Witt Gambit",
+      "words": 3300
+    },
+    {
+      "ch": 9,
+      "title": "Drawing Rooms and Deals",
+      "words": 2950
+    },
+    {
+      "ch": 10,
+      "title": "The Currency of Confession",
+      "words": 3150
+    },
+    {
+      "ch": 11,
+      "title": "A Gilded Ghost",
+      "words": 2900
+    },
+    {
+      "ch": 12,
+      "title": "The Morose Hungarian",
+      "words": 2800
+    },
+    {
+      "ch": 13,
+      "title": "Anachronism",
+      "words": 3100
+    },
+    {
+      "ch": 14,
+      "title": "The Frenchwoman's Needle",
+      "words": 2950
+    },
+    {
+      "ch": 15,
+      "title": "Beeswax and Old Paper",
+      "words": 3200
+    },
+    {
+      "ch": 16,
+      "title": "The Professional Sympathy",
+      "words": 2850
+    },
+    {
+      "ch": 17,
+      "title": "Navigating the Discrepancy",
+      "words": 3300
+    },
+    {
+      "ch": 18,
+      "title": "A Fence of Words",
+      "words": 2900
+    },
+    {
+      "ch": 19,
+      "title": "The Third Stair",
+      "words": 3100
+    },
+    {
+      "ch": 20,
+      "title": "The Old Courtesies",
+      "words": 3000
+    },
+    {
+      "ch": 21,
+      "title": "The Resourceful Creature",
+      "words": 2950
+    },
+    {
+      "ch": 22,
+      "title": "A Statue of Oneself",
+      "words": 2850
+    },
+    {
+      "ch": 23,
+      "title": "The Final, Furtive Act",
+      "words": 3200
+    },
+    {
+      "ch": 24,
+      "title": "Swinging Free",
+      "words": 3051
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a letter from Elara to her father, one year after her exile, detailing a truth she could never have spoken in Gramercy Park.",
+      "Create a journal entry from Samuel Thorne's perspective, cataloging Elara's 'resources' and her potential value in his network.",
+      "Draft a scene where Elara encounters another exiled American in a European salon, and they perform a silent, mutual assessment of each other's ruin.",
+      "Imagine a chapter from the perspective of the sharp-eyed Frenchwoman in the ship's cabin, speculating on Elara's past and future."
+    ],
+    "technical": [
+      "Build an interactive map tracing Elara's journey from New York to Rotterdam to Haarlem, annotating locations with sensory details (smells, sounds, textures) from the text.",
+      "Create a 'Social Ledger' visualization tool that tracks the fluctuating value of names, favors, and secrets among the exiled characters."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Edith Wharton",
+      "W.E.B. Du Bois",
+      "Vladimir Nabokov",
+      "Zora Neale Hurston"
+    ]
+  },
+  "cover_prompt": "A solitary woman in a tattered but once-opulent ballgown stands on a fog-draped European pier, her back to the viewer, gazing at the silhouette of a departing transatlantic steamship, the architectural ghost of her old life fading into the mist, clutching a small, heavy ledger that holds the accounts of traded social secrets. The scene is set in a liminal space between the industrial pier and the opulent, blurred lights of a distant port city, with details of chipped gilt on a lamppost and pearls scattered like forgotten currency on damp cobblestones, evoking the themes of exile and fragile performance. In the atmospheric style of Vilhelm Hammershøi's muted interiors and Edward Hopper's cinematic loneliness, combined with the textural richness of John Singer Sargent's portraiture. Book cover framing, centered and intimate yet vast composition, a dramatic low-angle shot that makes the figure both vulnerable and monumental, with the vast, empty sky and sea dominating the upper half. Chiaroscuro lighting with a single, cold source from a pier lantern, casting long, defining shadows, using a color palette of tarnished gold, deep charcoal, sea-foam grey, and the faintest blush of a lost rose on her gown. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
