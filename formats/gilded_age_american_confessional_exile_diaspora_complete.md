@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The sea was the colour of a tarnished spoon. It wasn’t the Atlantic I’d imagined from the lithographs—all heroic waves and spume like lace—but a dull, heaving slab of iron-grey, indifferent to the thousand souls huddled on the deck of the *SS Pomerania*. The smell was the first truth of exile: brine, vomit, coal smoke, and the dense, woolen odor of unwashed humanity, all braided together by a wind that cut like a creditor’s smile.
@@ -77,6 +79,8 @@ The flat, water-veined landscape flew past—endless green fields partitioned by
 The first entry would be written in Haarlem.
 
 ---
+
+# Chapter 2
 
 ## **Chapter 2**
 
@@ -169,6 +173,8 @@ I blew out the candle and lay in the dark, listening to the sounds of the strang
 It was a new kind of exile. Not from a place, but from a self.
 
 ---
+
+# Chapter 3
 
 ## **Chapter 3**
 
