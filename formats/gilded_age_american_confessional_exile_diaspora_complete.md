@@ -2,7 +2,8 @@
 
 ## **Chapter 1**
 
-The sea was the colour of a tarnished spoon. It wasn’t the Atlantic I’d imagined from the lithographs—all heroic waves and spume like lace—but a dull, heaving slab of iron-grey, indifferent to the thousand souls huddled on the deck of the *SS Pomerania*. The smell was the first truth of exile: brine, vomit, coal smoke, and the dense, woolen odor of unwashed humanity, all braided together by a wind that cut like a creditor’s smile.
+Manhattan’s harbor swallowed ships whole. From the rail, Elspeth counted them—not arrivals, but departures, each steamer a possibility she’d missed. The salt wind carried coal-smoke and the tinny melody of a hurdy-gurdy, a sound that already felt like a memory of this place, not a part of it. Her exile began not with a leaving, but with this standing still.
+
 
 I stood at the rail, my gloved hands gripping the cold wood, the last of my father’s money a secret weight in my corset. Eighty-seven dollars. It was a laughable sum against the ledger of our disgrace, but it was mine. I’d sewn the bills into a linen pouch myself, the needle pricking my thumb in the gaslight of my third-floor room on Gramercy Park, a final, furtive act before I became a ghost to that house.
 
